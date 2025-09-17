@@ -1,2 +1,12 @@
 node_modules/
 *~
+
+# Intermediary files:
+cache/
+out/
+.emsdk-cache/
+sqlite-src/
+tmp/
+c/
+emsdk/
+sqljs.zip
